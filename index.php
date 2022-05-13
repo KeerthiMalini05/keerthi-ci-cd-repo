@@ -1,6 +1,6 @@
 <?php
 
-echo 'Hello from Sriram R M<br/>';
+echo 'HI! Keerthi <br/>';
 
 $host = 'db';
 $user = 'admin';
